@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./assets/T-REX.jpg" alt="T-Rex Protocol Logo" width="300"/>
+</p>
+
+---
+
 # T-Rex Protocol
 
 This repository is a community contribution for exploring and understanding the ERC-3643 protocol, used by the T-Rex Network for identity-driven tokenization of real-world assets (RWA).
